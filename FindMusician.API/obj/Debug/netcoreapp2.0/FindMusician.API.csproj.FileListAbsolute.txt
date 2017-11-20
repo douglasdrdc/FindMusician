@@ -1,0 +1,12 @@
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.deps.json
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.runtimeconfig.json
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.runtimeconfig.dev.json
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.dll
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.csprojResolveAssemblyReference.cache
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.csproj.CoreCompileInputs.cache
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.AssemblyInfoInputs.cache
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.AssemblyInfo.cs
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.xml
+C:\ProjetosGit\FindMusician\FindMusician.API\bin\Debug\netcoreapp2.0\FindMusician.API.pdb
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.dll
+C:\ProjetosGit\FindMusician\FindMusician.API\obj\Debug\netcoreapp2.0\FindMusician.API.pdb

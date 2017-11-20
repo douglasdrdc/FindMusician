@@ -1,0 +1,14 @@
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.utility.netstandard15.dll
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\xunit.runner.reporters.netstandard15.dll
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\FindMusician.API.Test.deps.json
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\FindMusician.API.Test.runtimeconfig.json
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\FindMusician.API.Test.runtimeconfig.dev.json
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\FindMusician.API.Test.dll
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\bin\Debug\netcoreapp2.0\FindMusician.API.Test.pdb
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.csprojResolveAssemblyReference.cache
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.csproj.CoreCompileInputs.cache
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.AssemblyInfoInputs.cache
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.AssemblyInfo.cs
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.dll
+C:\ProjetosGit\FindMusician\FindMusician.API.Test\obj\Debug\netcoreapp2.0\FindMusician.API.Test.pdb
